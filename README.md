@@ -1,6 +1,6 @@
 Table Project
 
-This is a beginner-friendly project created using HTML and CSS.
+This is a beginner-friendly table project created using HTML and CSS.
 
 📌 Features
 - Structured table using HTML
@@ -16,5 +16,4 @@ This is a beginner-friendly project created using HTML and CSS.
 - table.css → styling of the table
 
 🚀 Author
-
 Esha Kewalramani
