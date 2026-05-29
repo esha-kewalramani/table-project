@@ -16,4 +16,5 @@ This is a beginner-friendly table project created using HTML and CSS.
 - table.css → styling of the table
 
 🚀 Author
+
 Esha Kewalramani
