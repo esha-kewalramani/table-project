@@ -11,10 +11,10 @@ This is a beginner-friendly table project created using HTML and CSS.
 - HTML
 - CSS
 
-### 📂 Files
+## 📂 Files
 - table.html → structure of the table
 - table.css → styling of the table
 
-### 🚀 Author
+## 🚀 Author
 
 Esha Kewalramani
